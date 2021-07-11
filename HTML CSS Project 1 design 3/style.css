@@ -1,0 +1,146 @@
+
+.menu{
+
+    background-color: gray;
+    width: 1350px;
+}
+
+.container-1{
+    display: flex;
+    background-color:grey;
+    justify-content: center;
+}
+
+.blogmenu{
+    background-color: darkgray;
+    flex-basis: 100% ;
+    margin: 4px;
+    color: honeydew;
+    display: flex;
+    justify-content: center;
+    font-size: x-large;
+}
+
+.container-2{
+    margin-top: 4px;
+    display: flex;
+    background-color:grey;
+    justify-content: space-between;
+}
+
+.logo{
+    background-color: darkgray;
+    flex-basis: 40%;
+    margin: 4px;
+    color: honeydew;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: x-large;
+}
+
+.phonemenu{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: flex-end;
+}
+
+.phone{
+    background-color: darkgray;
+    margin: 4px ;
+    color: honeydew;
+    width:200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: x-large;
+    
+}
+
+.menu{
+    background-color: darkgray;
+    margin: 4px;
+    color: honeydew;
+    width:400px;
+     display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: x-large;
+}
+
+.container-3{
+    margin-top: 4px;
+    display: flex;
+    flex-direction: row;
+    background-color:grey;
+    justify-content: space-between;
+}
+
+.slide-text{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    flex-basis: 70%;
+}
+
+.slideshow{
+
+    background-color: darkgray;
+    margin: 4px ;
+    color: honeydew;
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: x-large;
+}
+    
+
+
+.text-content{
+
+    background-color: darkgray;
+    margin: 4px ;
+    color: honeydew;
+    flex: 2;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: x-large;
+}
+    
+
+
+.sidebar{
+
+    background-color: darkgray;
+    margin: 4px ;
+    color: honeydew;
+    flex-basis: 30%;
+    height: 500px;   
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: x-large;
+}
+
+.container-4{
+
+    margin-top: 4px;
+    display: flex;
+    background-color:grey;
+    
+}
+
+.footer{
+   
+    background-color: darkgray;
+    margin: 4px;
+    flex-basis: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: x-large;
+    color: honeydew;
+}

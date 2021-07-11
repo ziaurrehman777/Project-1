@@ -1,0 +1,146 @@
+.main{
+  max-width: 1350px;
+  background-color: grey;
+}
+
+
+.container-1{
+  display: flex;
+  justify-content: space-between;
+}
+
+.logo{
+
+  background-color: darkgray;
+  margin: 7px;
+  font-size: x-large;
+  color: whitesmoke;
+  flex-basis: 30%;
+  height: 150px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.phone{
+
+  background-color: darkgray;
+  margin-top: 30px;
+  margin-right: 7px;
+  height: 40px;
+  color: whitesmoke;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-basis: 40%;
+  font-size: x-large;
+
+}
+
+
+.container-2{
+ display: flex;
+
+}
+
+.menu{
+  background-color: darkgray;
+  margin: 7px;
+  font-size: x-large;
+  color: whitesmoke;
+  flex-basis: 100%;
+  background-color: darkgray;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 40px;
+}
+
+.container-3{
+  display: flex;
+ }
+
+ .imageslideshow{
+
+  background-color: darkgray;
+  margin: 7px;
+  font-size: x-large;
+  color: whitesmoke;
+  flex-basis: 100%;
+  background-color: darkgray;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 300px;
+ }
+
+ .container-4{
+  display: flex;
+  justify-content: space-between;
+ }
+
+ .flatboxes{
+
+  background-color: darkgray;
+  margin: 7px;
+  font-size: x-large;
+  color: whitesmoke;
+  flex-basis: 100%;
+  background-color: darkgray;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 150px;
+ }
+
+.container-5{
+  display: flex;
+  justify-content: space-between;
+}
+
+.textcontent{
+
+  background-color: darkgray;
+  margin: 7px;
+  font-size: x-large;
+  color: whitesmoke;
+  flex-basis: 70%;
+  background-color: darkgray;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 325px;
+
+}
+
+.sidebar{
+
+  background-color: darkgray;
+  margin: 7px;
+  font-size: x-large;
+  color: whitesmoke;
+  flex-basis: 30%;
+  background-color: darkgray;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 325px;
+}
+
+.container-6{
+  display: flex;
+}
+
+.footer{
+
+  background-color: darkgray;
+  margin: 7px;
+  font-size: x-large;
+  color: whitesmoke;
+  flex-basis: 100%;
+  background-color: darkgray;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 40px;
+}

@@ -1,0 +1,119 @@
+.main{
+    max-width: 700px;
+    background-color: grey;
+}
+
+.container-1{
+
+
+    display: flex;
+    
+}
+
+.logo{
+
+    background-color: darkgray;
+    margin: 7px;
+    flex: 1;
+    color: whitesmoke;
+    display: flex;
+    justify-content: center;
+}
+
+.menu{
+    background-color: darkgray;
+    margin: 7px;
+    flex: 1.5;
+    color: whitesmoke;
+    display: flex;
+    justify-content: space-around;
+}
+
+.container-2{
+
+    display: flex;
+    margin-top: 10px;
+}
+
+.image-slideshow{
+    background-color: darkgray;
+    margin: 7px;
+    flex: 1;
+    height: 200px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    color: whitesmoke;
+    font-size: x-large;
+}
+
+.container-3{
+
+    display: flex;
+    margin-top: 10px;
+}
+
+.flatbox{
+    background-color: darkgray;
+    margin: 7px;
+    color: whitesmoke;
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 150px;
+    font-size: x-large;
+}
+
+.container-4{
+
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+
+}
+
+.sidebar{
+
+    display: flex;
+    background-color: darkgray;
+    margin: 7px;
+    color: whitesmoke;
+    justify-content: center;
+    align-items: center;
+    height: 250px;
+    flex:1;
+    font-size: x-large;
+}
+
+.textcontent{
+
+    display: flex;
+    background-color: darkgray;
+    margin: 7px;
+    color: whitesmoke;
+    justify-content: center;
+    align-items: center;
+    height: 250px;
+    flex:2;
+    font-size: x-large;
+}
+
+.container-5{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+}
+
+.footer{
+    display: flex;
+    background-color: darkgray;
+    margin: 7px;
+    color: whitesmoke;
+    justify-content: center;
+    align-items: center;
+    height: 75px;
+    flex:2;
+    font-size: x-large;
+
+}
